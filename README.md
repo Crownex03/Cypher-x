@@ -14,16 +14,12 @@ Simple WhatsApp bot with basic commands.
 ```bash
 npm install
 node index.js
-# Clone the repo
-git clone https://github.com/Crownex03/Cypher-x.git
-cd Cypher-x
+---
 
-# Install dependencies
+## Step 11: Install and Run
+
+Now in your terminal, run these commands:
+
+```bash
 npm install
-
-# Configure (if needed)
-cp .env.example .env
-# Edit .env with your settings
-
-# Run the bot
 node index.js
